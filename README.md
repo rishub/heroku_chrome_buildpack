@@ -1,1 +1,1 @@
-# heroku-buildpack-chrome
+# heroku-chrome-buildpack
